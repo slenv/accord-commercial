@@ -1,0 +1,6 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/jacosft/accord-commercial-web.git
+[submodule "api"]
+	path = api
+	url = https://github.com/jacosft/accord-commercial-api.git
