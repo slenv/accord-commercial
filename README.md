@@ -1,6 +1,6 @@
-# Mono Repo del Sistema Comercial de Accord Technology
+# Sistema Comercial de Accord Technology
 
-Este monorepo contiene el backend [`api`](https://github.com/jacosft/accord-commercial-api/tree/9193e5739f59762f27ab9898c7b71cd7ffc6577b) en Laravel y el frontend [`web`](https://github.com/jacosft/accord-commercial-web/tree/36ed3a45ba81477f5da14a018f2732f7cc4d6c59) en React.
+Este proyecto contiene el backend [`api`](https://github.com/jacosft/accord-commercial-api/tree/9193e5739f59762f27ab9898c7b71cd7ffc6577b) en Laravel y el frontend [`web`](https://github.com/jacosft/accord-commercial-web/tree/36ed3a45ba81477f5da14a018f2732f7cc4d6c59) en React.
 
 ---
 
